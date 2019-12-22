@@ -1,0 +1,20 @@
+<link href="https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700" rel="stylesheet">
+<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/animate.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/hover-min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/jquery-ui.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/meanmenu.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/owl.carousel.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assetscss/slick.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/chosen.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/jquery-customselect.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/font-awesome.min.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/magnific-popup.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/assets/revolution/layers.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/assets/revolution/navigation.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/assets/revolution/settings.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/jquery-ui.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/style.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/slider_home.css">
+<link rel="stylesheet" href="<?php echo base_url();?>assets/css/responsive.css">
